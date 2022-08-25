@@ -11,4 +11,9 @@
 .ipynb_checkpoints/S3-checkpoint.ipynb
 S4-HW.ipynb
 S4.ipynb
-**/*.ipynb
+/.idea/modules.xml
+/.idea/python_for_analytics.iml
+/.ipynb_checkpoints/S4-checkpoint.ipynb
+.ipynb_checkpoints/S4-HW-checkpoint.ipynb
+AB/.ipynb_checkpoints/A_B_Python_Lec-checkpoint.ipynb
+*checkpoint.ipynb
